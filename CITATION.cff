@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this research, cite the unpublished companion manuscript."
+title: "AURA: Assessing the Limits of Disagreement-Aware Selective Prediction in an Axial Spondyloarthritis-Inspired Synthetic Benchmark"
+type: software
+version: "3.0"
+authors:
+  - family-names: Naskar
+    given-names: Susmit
+    affiliation: "Institute of Engineering and Management, Kolkata, India"
+abstract: "Reproducible simulation-only companion code for a methodological study of disagreement-aware selective prediction. Manuscript under review; no clinical validation."

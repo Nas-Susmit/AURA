@@ -1,0 +1,32 @@
+seed 0 complete
+seed 1 complete
+seed 2 complete
+seed 3 complete
+seed 4 complete
+seed 5 complete
+seed 6 complete
+seed 7 complete
+seed 8 complete
+seed 9 complete
+                               auroc    auprc    brier      ece     aurc   risk80
+model          ranking                                                           
+AURA           entropy       0.82706  0.71923  0.16136  0.06482  0.12598  0.18114
+               matched full  0.82706  0.71923  0.16136  0.06482  0.12191  0.18451
+               matched no D  0.82706  0.71923  0.16136  0.06482  0.12196  0.18404
+               native full   0.82706  0.71923  0.16136  0.06482  0.12174  0.18415
+               native no D   0.82706  0.71923  0.16136  0.06482  0.12188  0.18355
+Early HGB      entropy       0.81843  0.71505  0.16449  0.06400  0.12947  0.19273
+               matched full  0.81843  0.71505  0.16449  0.06400  0.12929  0.19579
+               matched no D  0.81843  0.71505  0.16449  0.06400  0.12965  0.19517
+Early RF       entropy       0.81851  0.71543  0.16554  0.06939  0.13057  0.19545
+               matched full  0.81851  0.71543  0.16554  0.06939  0.13114  0.19896
+               matched no D  0.81851  0.71543  0.16554  0.06939  0.13195  0.19846
+Early logistic entropy       0.82960  0.73295  0.15938  0.06309  0.11934  0.18118
+               matched full  0.82960  0.73295  0.15938  0.06309  0.11998  0.18463
+               matched no D  0.82960  0.73295  0.15938  0.06309  0.11972  0.18407
+Equal fusion   entropy       0.82455  0.71437  0.16286  0.06874  0.12808  0.18287
+               matched full  0.82455  0.71437  0.16286  0.06874  0.12353  0.18652
+               matched no D  0.82455  0.71437  0.16286  0.06874  0.12325  0.18596
+Quality fusion entropy       0.82487  0.71501  0.16280  0.06833  0.12802  0.18258
+               matched full  0.82487  0.71501  0.16280  0.06833  0.12367  0.18604
+               matched no D  0.82487  0.71501  0.16280  0.06833  0.12315  0.18551

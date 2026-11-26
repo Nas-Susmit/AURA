@@ -1,0 +1,43 @@
+{
+  "coefficients.csv": {
+    "rows": 10,
+    "max_absolute_difference": 0.0
+  },
+  "curves.csv": {
+    "rows": 7980,
+    "max_absolute_difference": 0.0
+  },
+  "experts.csv": {
+    "rows": 210,
+    "max_absolute_difference": 0.0
+  },
+  "explanation_stability.csv": {
+    "rows": 45,
+    "max_absolute_difference": 0.0
+  },
+  "feature_stability.csv": {
+    "rows": 135,
+    "max_absolute_difference": 0.0
+  },
+  "metrics.csv": {
+    "rows": 1400,
+    "max_absolute_difference": 1.1102230246251565e-16
+  },
+  "paired.csv": {
+    "rows": 50,
+    "max_absolute_difference": 0.0
+  },
+  "permutation.csv": {
+    "rows": 700,
+    "max_absolute_difference": 0.0
+  },
+  "sensitivity.csv": {
+    "rows": 630,
+    "max_absolute_difference": 0.0
+  },
+  "thresholds.csv": {
+    "rows": 70,
+    "max_absolute_difference": 0.0
+  }
+}
+PASS: all saved manuscript CSVs reproduced within tolerance.

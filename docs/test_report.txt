@@ -1,0 +1,11 @@
+test_demo (test_aura.TestAURA.test_demo) ... ok
+test_demo_matches_archived_seed (test_aura.TestAURA.test_demo_matches_archived_seed) ... ok
+test_explanations (test_aura.TestAURA.test_explanations) ... ok
+test_generator (test_aura.TestAURA.test_generator) ... ok
+test_masked_fusion (test_aura.TestAURA.test_masked_fusion) ... ok
+test_ties (test_aura.TestAURA.test_ties) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.195s
+
+OK

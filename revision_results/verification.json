@@ -1,0 +1,9 @@
+{
+  "primary_evaluations": 1400,
+  "sensitivity_comparisons": 630,
+  "seeds": 10,
+  "conditions": 7,
+  "references": 29,
+  "latex_overfull_boxes": 0,
+  "clinical_data": false
+}

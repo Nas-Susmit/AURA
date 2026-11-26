@@ -1,0 +1,17 @@
+{
+  "dataset_rows": 10000,
+  "clean_missing_cells": 0,
+  "split_counts": {
+    "train": 5000,
+    "gate": 1500,
+    "test": 1500,
+    "calibration": 1000,
+    "uncertainty": 1000
+  },
+  "binary_columns_valid": true,
+  "metric_rows": 560,
+  "all_numeric_metrics_finite": true,
+  "audit_rows": 70,
+  "attribution_max_abs_residual": 3.3306690738754696e-16,
+  "clinical_validation": false
+}
