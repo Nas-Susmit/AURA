@@ -91,6 +91,4 @@ For native AURA, adding disagreement changes AURC by −0.000138 (95% seed-level
 
 Cite the manuscript as an unpublished research manuscript unless and until it is accepted. See `CITATION.cff`. No public repository URL or DOI is asserted. Author identity, contribution, co-authorship and public-release permissions require human confirmation. No open-source license is assigned without author approval; decide on code and manuscript/data permissions before public release. IEEE venue rules may require anonymized supplementary material or restrict preprint posting; see `docs/github_release.md`.
 
-## AI disclosure
 
-OpenAI ChatGPT contributed substantially to research design, implementation, analysis, figures, tables and manuscript drafting; it also assisted in preparing this repository and demonstration. Human authors must review the code, references, clinical assumptions, results and conclusions before submitting or releasing it. No clinical validation or independent human verification is implied by automated checks.
